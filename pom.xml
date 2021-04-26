@@ -17,7 +17,7 @@
     </modules>
     <packaging>pom</packaging>
     <properties>
-        <common.version>2.5</common.version>
+        <common.version>2.7</common.version>
         <jetty.version>9.4.19.v20190610</jetty.version>
         <lombok.version>1.18.10</lombok.version>
         <junit.version>4.12</junit.version>
